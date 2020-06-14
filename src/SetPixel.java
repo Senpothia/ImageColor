@@ -75,13 +75,17 @@ public class SetPixel {
       // Analyse par classe recherche
       
       // Recherche d'une couleur
-      Recherche rechercheRouge = new Recherche(237, 28, 34, "C:\\Users\\kinte\\eclipse-workspace\\ImageColor\\rouge.jpg");
+      
+      /*
+      Recherche rechercheRouge = new Recherche(237, 28, 34, "C:\\Users\\kinte\\eclipse-workspace\\ImageColor\\rouge1.jpg");
       boolean rouge  = rechercheRouge.analyse();
-      
-      Recherche rechercheBleu = new Recherche(62, 72, 204, "C:\\Users\\kinte\\eclipse-workspace\\ImageColor\\bleu.jpg");
+      */
+      /*
+      Recherche rechercheBleu = new Recherche(62, 72, 204, "C:\\Users\\kinte\\eclipse-workspace\\ImageColor\\bleu1.jpg");
       boolean bleu = rechercheBleu.analyse();
+      */
       
-      Recherche rechercheVert = new Recherche(35, 177, 75, "C:\\Users\\kinte\\eclipse-workspace\\ImageColor\\vert.jpg");
+      Recherche rechercheVert = new Recherche(35, 177, 75, "C:\\Users\\kinte\\eclipse-workspace\\ImageColor\\vert1.jpg");
       boolean vert = rechercheVert.analyse();
       
       // Test de cas d'erreurs

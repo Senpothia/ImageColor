@@ -12,7 +12,7 @@ public class Recherche {
 	private int blue;
 	private int tolerance = 10;
 	private String image;
-	private int pointOK = 100;
+	private int pointOK = 50;
 	
 	public Recherche() {
 		super();
